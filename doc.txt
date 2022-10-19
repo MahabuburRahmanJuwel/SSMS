@@ -1,0 +1,61 @@
+Project Name : Simple Student Management System (SSMS)
+
+
+Feature list of the Project:
+
+Total Panel:
+	1. Website
+	2. Admin Panel
+	3. Teacher Panel
+	4. Studen Panel
+
+	1. Feature list of Website
+		a. A simple website with Home page, Course Page, Course Detail, About Page, Contact Page, Login/Registration Page.
+		b. Home page contacin Hero section, A section for latest course, A section for Teacher, A section for Studen Review,
+		c. Course page contacin all course info
+		d. Course detail page contacin specific couurse detail informatoin.
+		e. About page contacin about institutation information
+		f. Contat page contain contact information
+		g. Login/Registration page contact login/registration form 
+
+	2. Feature list of Admin Panel
+		a. secure login system.
+		b. admin can crete & manage teacher.
+		c. admin can create another admin user.
+		d. admin can manage student.
+		e. admin manage own profile.
+		f. admin can manage course.
+		g. admin can manage student Enroll 
+		
+	3. Feature list of Teacher Panel
+		a. secure login system.
+		b. manage own profile
+		c. create & manage courses.
+		d. see all enrool student & their payemnt status	
+		e. Note Share.
+		f. 	manage course result.
+
+	4. Feature list of Studnet Panel
+		a. secure login system.
+		b. manage own profile
+		c. see enroll course status
+		d. see result
+		e. see notice
+		
+	
+
+SDLC
+
+
+
+Requirement Collection
+Requirement Analysisis
+Usecase Design
+Coding
+Testing
+Deployment
+Maintaince
+
+
+
+

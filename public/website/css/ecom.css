@@ -1,0 +1,229 @@
+.theme-color{ background-color: #1abc9c; }
+.text-color{ color: #1abc9c!important; }
+
+.navbar-nav li a:hover
+{
+    color: #1abc9c!important;
+}
+
+.my-carousel
+{
+    background: rgba(0,0,0, 0.52);
+    width: 100%;
+    height: 500px;
+    position: absolute;
+    bottom: 0;
+}
+
+.my-caption
+{
+    /*bottom: 170px;*/
+}
+
+@media screen and (max-width: 500px)
+{
+    .my-caption
+    {
+        bottom: 10px;
+    }
+}
+
+.carousel-control-prev-icon
+{
+    background-color:  #1abc9c;
+    position: absolute;
+    top: 200px;
+    left: 0px;
+    padding: 40px;
+}
+
+.carousel-control-next-icon
+{
+    background-color:  #1abc9c;
+    position: absolute;
+    top: 200px;
+    right: 0;
+    padding: 40px;
+}
+
+.feature-card:hover i,
+.feature-card:hover h3
+{
+    color: #1abc9c;
+}
+
+.new-collection-bg{ background-color: #e9f0fd; }
+
+.line
+{
+    width: 200px;
+    height: 10px;
+    background-color: #1abc9c;
+    margin-left: 30%;
+}
+.line1
+{
+    width: 200px!important;
+    height: 10px!important;
+    background-color: red;
+    margin-left: 30%;
+}
+
+.collection-body
+{
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    right: 0;
+}
+
+.btn1
+{
+    background-color: #323232;
+    color: white;
+    width: 80%;
+    float: left;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 18px;
+    padding: 10px;
+}
+
+
+.btn2
+{
+    background-color: #999999;
+    color: white;
+    width:20%;
+    float: right;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 18px;
+    padding: 10px;
+}
+
+.collection-body-hover
+{
+    height: 85.5%;
+    width: 100%;
+    background-color: rgba(0,0,0, 0.5);
+    position: absolute;
+    right: 0;
+    top: 0;
+    display: none;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.card-collection:hover .collection-body-hover
+{
+    display: block;
+}
+
+.mt-10
+{
+    margin-top: 70px;
+}
+
+.card-collection:hover .btn1
+ {
+     background-color: #1abc9c;
+     color: white;
+ }
+
+.card-collection:hover .btn2
+{
+    background-color: #8ed4c6;
+    color: white;
+}
+
+.bg-end
+{
+    background-image: url("../img/offer-bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.inner-bg
+{
+    background-color: rgba(0,0,0, 0.5);
+}
+
+.member-image
+{
+    height: 220px;
+    width: 220px;
+    border-radius: 50%;
+    margin-left: 40%;
+}
+
+.customer-caption
+{
+    position: relative;
+    top: 30px;
+    width: 70%;
+    height: 220px;
+    padding: 20px;
+    color: black;
+}
+
+.customer-indicators
+{
+    top: 450px;
+}
+
+.my-li1
+{
+    background-image: url("../img/member1.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border-radius: 50%;
+    border: 3px solid black!important;
+}
+
+.my-li2
+{
+    background-image: url("../img/member2.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border-radius: 50%;
+    border: 3px solid black!important;
+}
+
+.my-li3
+{
+    background-image: url("../img/member3.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border-radius: 50%;
+    border: 3px solid black!important;
+}
+
+.newsletter-section {
+    margin-top: 100px;
+    background-image: url("../img/bg.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    /*position: relative;*/
+    background-color: #1abc9c;
+}
+
+.p-t-100 {
+    padding-top: 100px;
+}
+.submit-btn {
+    background-color: #1abc9c!important;
+    color: white;
+}
+.submit-position {
+    position: absolute;
+    right: 5px;
+    top: 0;
+}
+
+
